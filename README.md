@@ -1,7 +1,7 @@
-# Uniswap V3 Subgraph
+# OffsetCarbon V3 Subgraph
 
 ### Subgraph Endpoint 
 
-Synced at: https://thegraph.com/hosted-service/subgraph/ianlapham/uniswap-v3-subgraph?selected=playground
+Synced at: https://api.thegraph.com/subgraphs/name/niftrr/arbitrum-sepolia-v3?selected=playground
 
 Pending Changes at same URL
